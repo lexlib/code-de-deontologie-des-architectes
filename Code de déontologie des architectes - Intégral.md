@@ -1,13 +1,13 @@
 # Code de déontologie des architectes  
-Version Consolidée au 1980-03-25
+Version Consolidée au 1992-09-23
 ## Contenu: 
   - [Code de déontologie des architectes. (art. 1)](#1)
   - [TITRE Ier : Missions de l'architecte. (art. 2)](#2)
   - [TITRE II : Devoirs professionnels (art. 3 à 47)](#3)
     - [CHAPITRE 1er : Règles générales (art. 3 à 32)](#4)
-      - [Section 1 : Règles personnelles. (art. 3 à 10)](#5)
+      - [Section 1 : Règles personnelles. (art. 3 à 10 bis)](#5)
       - [Section 2 : Devoirs envers les clients. (art. 11 à 16)](#6)
-      - [Section 3 : Devoirs envers les confrères. (art. 17 à 26)](#7)
+      - [Section 3 : Devoirs envers les confrères. (art. 17 à 25)](#7)
       - [Section 4 : Relations avec l'ordre et les administrations publiques. (art. 27 à 32)](#8)
     - [CHAPITRE II : Règles particulières à chacun des modes d'exercice (art. 33 à 45)](#9)
       - [Section 1 : Exercice libéral ou en société. (art. 33 à 42)](#10)
@@ -169,6 +169,30 @@ il est inscrit au tableau de l'ordre et les autres diplômes, certificats, titre
 _Codifié par_:
 
   - Décret n°80-217 1980-03-20
+
+
+###### Article 10 bis
+
+Les architectes peuvent recourir à la publicité dans le cadre de la législation et de la réglementation en vigueur, notamment
+l'article 44 (1) de la loi n° 73-1193 du 27 décembre 1973 d'orientation du commerce et de l'artisanat modifiée.
+
+**Nota:**
+
+(1) Article abrogé par la loi n° 93-949 du 26 juillet 1993 art. 4.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°73-1193 du 27 décembre 1973 - art. 44 (Ab)
+
+_Codifié par_:
+
+  - Décret n°80-217 1980-03-20
+
+_Créé par_:
+
+  - Décret n°92-1009 du 17 septembre 1992 - art. 2 () JORF 23 septembre 1992
 
 
 ### Section 2 : Devoirs envers les clients.<a id=6></a>
@@ -420,34 +444,6 @@ compte d'une personne publique.
 _Codifié par_:
 
   - Décret n°80-217 1980-03-20
-
-
-###### Article 26
-
-La publicité faite par un architecte ne peut être fondée que sur ses réalisations ou projets. Elle ne doit pas être de nature
-à mettre directement en cause l'activité d'autres architectes ou de tiers. Les frais qu'elle entraîne doivent être à la
-charge exclusive de l'architecte. 
-
-Ne sont pas considérés comme une publicité faite par l'architecte    :
-
-- les oeuvres à caractère littéraire ;
-
-- les oeuvres d'architectes citées par des tiers à titre d'exemple pour promouvoir leurs produits ou réalisations ;
-
-- les articles, reportages, entretiens radio-télévisés, écrits ou réalisés à l'initiative de tiers dans un but d'information
-ou dans le cadre de l'actualité quand l'intervention de l'architecte est motivée et gratuite. 
-
-Toute publicité mensongère ou contraire à la confraternité est interdite.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°80-217 1980-03-20
-
-_Abrogé par_:
-
-  - Décret n°92-1009 du 17 septembre 1992 - art. 2 () JORF 23 septembre 1992
 
 
 ### Section 4 : Relations avec l'ordre et les administrations publiques.<a id=8></a>
